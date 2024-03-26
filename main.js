@@ -1,0 +1,5 @@
+let ism = prompt(`ism`)
+let familiya = prompt(`familiya`)
+let yili = prompt(`yili`)
+let fan = prompt(`fan`)
+console.log(`ism: ${ism} \n familiya: ${familiya} \n yili: ${yili} \n fan: ${fan} \n`)
